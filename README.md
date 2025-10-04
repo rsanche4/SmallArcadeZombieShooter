@@ -6,9 +6,6 @@ https://drive.google.com/file/d/1OIZFhHjqgQhI2Bw9E2dTQgvT26SmUsWT/view?usp=drive
 
 After you download it from the link above, simply unzip and drag the JRE folder into this directory. That's it!
 
-## DEAD SHOT GIRL GAME MANUAL ##
-Developed by Raffy's Playground
-
 ## OBJECTIVE ##
 Survive the infested school halls!
 
