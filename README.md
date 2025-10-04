@@ -1,33 +1,11 @@
-⚠️ Epilepsy Warning ⚠️
-
 ## Installation ##
 Because this game uses Java, you need to download the JRE so it can run. Download here:
 https://drive.google.com/file/d/1OIZFhHjqgQhI2Bw9E2dTQgvT26SmUsWT/view?usp=drive_link
 
 After you download it from the link above, simply unzip and drag the JRE folder into this directory. That's it!
 
-## OBJECTIVE ##
-Survive the infested school halls!
+Or, if you want to just download the full .zip of the game and extract and just be ready to go in one go, download it here:
+https://drive.google.com/file/d/1jRaTi2QpKE_ZZHJmCvBNIZVHM0m3Kjy8/view?usp=sharing
 
-You have your gun and... well, you do you have your gun.
-Just you against the horde!
-
-## CONTROLS (NES-Style) ##
-| Button     | Action        |
-|------------|---------------|
-| Space      | Shoot         |
-| Ctrl       | Reload        |
-| Enter      | Begin Game    |
-| Arrow Up   | Move Forward  |
-| Arrow Down | Move Backward |
-| Arrow Left | Turn Left     |
-| Arrow Right| Turn Right    |
-| Comma      | Strafe Left   |
-| Period     | Strafe Right  |
-| Esc        | Close Game    |
-
-Tip: You have to reload manually-don't get caught with an empty mag!
-
-## CREDITS ##
-Concept, code, and courage by Raffy's Playground.
-Pixel hearts and endless ammo dedicated to the players!
+You should be on Windows for this to run!
+Either way, once ready, double click run.vbs to start playing! Good luck!
